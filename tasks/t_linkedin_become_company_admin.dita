@@ -6,10 +6,18 @@
   <taskbody>
     <prereq>To successfully become an "administrator" there are steps that need to be completed by an individual who is already classified as such. The following instructions are for the new hire to complete before a current administrator helps out.</prereq>
     <steps>
-      <step>Log into your personal LinkedIn account on a laptop or desktop.</step>
-      <step>Search for and connect with the individual that is already a "administrator" for the company page.</step>
-      <step>Consult the instructions for the current page administrator and then return once completed.</step>
-      <step>Navigate to the LinkedIn homepage. It should now include access to the company page on the left hand side underneath your profile block.</step>
+      <step>
+        <cmd>Log into your personal LinkedIn account on a laptop or desktop.</cmd>
+      </step>
+      <step>
+        <cmd>Search for and connect with the individual that is already a "administrator" for the company page.</cmd>
+      </step>
+      <step>
+        <cmd>Consult the instructions for the current page administrator and then return once completed.</cmd>
+      </step>
+      <step>
+        <cmd>Navigate to the LinkedIn homepage. It should now include access to the company page on the left hand side underneath your profile block.</cmd>
+      </step>
     </steps>
   </taskbody>
 </task>
