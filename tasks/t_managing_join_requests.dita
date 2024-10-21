@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_managing_join_requests">
+  <title>Managing LinkedIn Join Requests</title>
+  <shortdesc>
+LinkedIn page administrators control the LinkedIn members that can and cannot join the company’s page. It’s essential to monitor community access so posts and information reach the targeted audience and proper networking can occur. 
+  </shortdesc>
+  <taskbody>
+    <prereq>Ensure you have “Super Admin” access to your company’s LinkedIn page. If not, contact your LinkedIn Administrator. </prereq>
+    <steps>
+      <step>
+        <cmd>Log into your personal LinkedIn account.</cmd>
+      </step>
+      <step>
+        <cmd>Search for your company group page using the search bar.</cmd>
+      </step>
+      <step>
+        <cmd>Click on your group page.</cmd>
+      </step>
+      <step>
+        <cmd>Select "Manage Groups, then "Requests."</cmd>
+      </step>
+      <step>
+        <cmd>If there are pending requests:</cmd>
+        <substeps>
+          <substep>
+            <cmd>Select the user profile and look through their page. </cmd>
+          </substep>
+          <substep>
+            <cmd>Review if they have an affiliation with the company.</cmd>
+          </substep>
+          <substep>
+            <cmd>Deny the user if they do not have an affiliation with the company</cmd>
+          </substep>
+          <substep>
+            <cmd>Accept the user if they do have an affiliation with the company.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>If there are no pending requests: No further action is needed.</cmd>
+      </step>
+    </steps>
+    <postreq>
+      <p>You are done! Check back every few days to monitor the requests. If your email notifications are turned on for LinkedIn, you will receive an email when someone requests to be added to the group.</p>
+    </postreq>
+  </taskbody>
+</task>
