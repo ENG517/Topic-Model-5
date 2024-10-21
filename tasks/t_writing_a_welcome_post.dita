@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_writing_a_welcome_post">
+  <title>How to Write a Welcome Post</title>
+  <shortdesc>
+    It’s important for page members to know who monitors the company's LinkedIn page to build brand trust. After becoming page admin, introduce yourself to page members with a welcome post.
+  </shortdesc>
+  <taskbody>
+    <prereq>
+      <p>To successfully write and publish a welcome post on LinkedIn, ensure you have access to a computer, stable internet connection, your job description, and a digital copy of your headshot.</p>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Log into your personal LinkedIn account.</cmd>
+      </step>
+      <step>
+        <cmd>Navigate to your homepage.</cmd>
+      </step>
+      <step>
+        <cmd>Located the company page on the left-hand side of your browser.</cmd>
+      </step>
+      <step>
+        <cmd>Click on the name of the company page.</cmd>
+      </step>
+      <step>
+        <cmd>Click the blue "+ Create" button and then select "Start a Post.”</cmd>
+      </step>
+      <step>
+        <cmd>Add text written in third-person containing the following information:</cmd>
+        <substeps>
+          <substep>
+            <cmd>Your first and last name.</cmd>
+          </substep>
+          <substep>
+            <cmd>Previous work and educational experience.</cmd>
+          </substep>
+          <substep>
+            <cmd>Job duties.</cmd>
+          </substep>
+          <substep>
+            <cmd>A fun fact.</cmd>
+          </substep>
+          <substep>
+            <cmd>Exclaimation of excitement for the job.</cmd>
+          </substep>
+          <substep>
+            <cmd>Your headshot.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Click post.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
