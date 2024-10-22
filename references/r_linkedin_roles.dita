@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_linkedin_roles">
+  <title>Types of LinkedIn Access Roles</title>
+  <shortdesc>There are several different levels of access a user can have on LinkedIn. Choose the correct role depending employee expectations.</shortdesc>
+  <refbody>
+    <table>
+      <title>LinkedIn Permission Roles</title>
+        <tgroup cols="2">
+          <thead>
+            <row>
+              <entry>Name of Role</entry>
+              <entry>Role Responsibility</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Super admin</entry>
+              <entry>
+                <ul>
+                  <li>Manage Page and paid media admins</li>
+                  <li>Edit all availabe fields of the Page</li>
+                  <li>Invite connections to follow</li>
+                  <li>Create Showcase Pages</li>
+                  <li>Deactivate the Page</li>
+                  <li>Approve association between company and developer application</li>
+                  <li>Restrict members from your Page</li>
+                </ul>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+
+    </table>
+
+  </refbody>
+</reference>
