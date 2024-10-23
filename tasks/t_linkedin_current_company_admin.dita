@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_linkedin_current_company_admin">
-  <title>How to Become an "Administrator" on a Company LinkedIn Page: Steps for a Current Admin</title>
-  <shortdesc>In order for a new employee to become an  "administrator" on a company LinkedIn page, a current individual that is classified as such on the page needs to facilitate the new hires efforts.</shortdesc>
+  <title>How to Add an Additional Administrator on LinkedIn</title>
+  <shortdesc>A current administrator may add an additional administrator to a company LinkedIn page should a new employee need access to the page.</shortdesc>
   <taskbody>
-    <prereq>The new hire should have requested to connect with you on LinkedIn, and you will need to have accepted the connection to complete these instructions successfully.</prereq>
+    <prereq>You need to be connected with the person you would like to add as an adminstrator in order to be successful.</prereq>
       <steps>
         <step>
           <cmd>Open the LinkedIn homepage on a web browser, navigate to the company page and click "Settings".</cmd>
