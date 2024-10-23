@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_linkedin_become_company_admin">
+  <title>How to Become an Admin on a Company LinkedIn Page</title>
+  <shortdesc>As an admin, you will have full permissions to manage the page.</shortdesc>
+  <taskbody>
+    <prereq>A current page Admin will also have instructions to complete in order for you to be added as an admin.</prereq>
+    <steps>
+      <step>
+        <cmd>Log into your personal LinkedIn account on a laptop or desktop.</cmd>
+      </step>
+      <step>
+        <cmd>Search for and connect with the individual that is already a "administrator" for the company page.</cmd>
+      </step>
+      <step>
+        <cmd>Consult the instructions for the current page administrator and then return once completed.</cmd>
+      </step>
+      <step>
+        <cmd>Navigate to the LinkedIn homepage. It should now include access to the company page on the left hand side underneath your profile block.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
