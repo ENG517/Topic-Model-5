@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_linkedin_roles">
+  <title>Types of LinkedIn Access Roles</title>
+  <shortdesc>LinkedIn offers different levels of account access based on user needs. The five possible roles are: super admin, content admin, curator, and analyst.</shortdesc>
+  <refbody>
+    <table>
+      <title>LinkedIn Permission Roles</title>
+        <tgroup cols="2">
+          <thead>
+            <row>
+              <entry>Name of Role</entry>
+              <entry>Role Responsibility</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Super admin</entry>
+              <entry>
+                <ul>
+                  <li>Manage Page and paid media admins</li>
+                  <li>Edit all availabe fields of the Page</li>
+                  <li>Invite connections to follow</li>
+                  <li>Create Showcase Pages</li>
+                  <li>Deactivate the Page</li>
+                  <li>Approve association between company and developer application</li>
+                  <li>Restrict members from your Page</li>
+                  <li>See organic posts by author</li>
+                  <li>Create, manage, comment on, and react to posts and Sponsored Content as the Page</li>
+                  <li>Boost or sponsor organic posts</li>
+                  <li>Post Jobs</li>
+                  <li>Create and manage Events</li>
+                  <li>Go Live from the Page</li>
+                  <li>Create and edit recommended content</li>
+                  <li>Untag Page from photos posted by members</li>
+                  <li>Send employee notifications</li>
+                  <li>Post content through third-party sites</li>
+                  <li>Manage messages to the Page</li>
+                  <li>Create Product Pages</li>
+                  <li>Edit Product Pages</li>
+                  <li>View and export analytics</li>
+                  <li>See social activity notifications</li>
+                  <li>See admin suggestion notifications</li>
+                </ul>
+              </entry>
+            </row>
+            <row>
+              <entry>Content admin</entry>
+              <entry>
+                <ul>
+                  <li>Invite connections to follow</li>
+                  <li>Restrict members from your Page</li>
+                  <li>See organic posts by author</li>
+                  <li>Create, manage, comment on, and react to posts and Sponsored Content as the Page</li>
+                  <li>Boost or sponsor organic posts</li>
+                  <li>Post Jobs</li>
+                  <li>Create and manage Events</li>
+                  <li>Go Live from the Page</li>
+                  <li>Create and edit recommended content</li>
+                  <li>Untag Page from photos posted by members</li>
+                  <li>Send employee notifications</li>
+                  <li>Post content through third-party sites</li>
+                  <li>Manage messages to the Page</li>
+                  <li>Create Product Pages</li>
+                  <li>Edit Product Pages</li>
+                  <li>View and export analytics</li>
+                  <li>See social activity notifications</li>
+                </ul>
+              </entry>
+            </row>
+            <row>
+              <entry>Curator</entry>
+              <entry>
+                <ul>
+                  <li>Create and edit recommended content</li>
+                  <li>View and export analytics</li>
+                </ul>
+              </entry>
+            </row>
+            <row>
+              <entry>Analyst</entry>
+              <entry>View and export analytics</entry>
+            </row>
+          </tbody>
+        </tgroup>
+    </table>
+  </refbody>
+</reference>
