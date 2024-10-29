@@ -7,6 +7,13 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
 - Lauren Marlier
 - Eden Miller
 
+## Project Maps
+- in this section, create subsections for each map, where you will:
+  - write user scenario in your project's README
+  - create an outline for each map that goes along with the user scenario
+
+### User Scenario 1 and outline
+
 ## Folders &amp; Files
 
 - `.github`: Contains configuration files for "Github Actions".
