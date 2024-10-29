@@ -1,4 +1,4 @@
-# DITA Topic Model - ENTER TITLE OF PROJECT HERE
+# DITA Topic Model - LinkedIn Topic Model
 
 This repo contains a DITA topic model (TM) related to [enter main goal and topic of your model here].
 
