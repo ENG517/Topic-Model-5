@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_linkedin-supported-files">
+  <title>Types of LinkedIn Supported Media Files</title>
+  <shortdesc>LinkedIn allows users to post documents, powerpoints, and images. The platform supports a wide range of media file types to ensure the best user experience.</shortdesc>
+  <refbody>
+    <table>
+      <title>Supported Media Files</title>
+      <tgroup cols="3">
+        <thead>
+          <row>
+            <entry>Type of Media</entry>
+            <entry>Files Supported</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Documents</entry>
+            <entry>
+              <ul>
+                <li>Adobe PDF (.pdf)</li>
+                <li>Microsoft Word (.doc/.docx)</li>
+              </ul>
+            </entry>
+          </row>
+          <row>
+            <entry>Powerpoints</entry>
+            <entry>
+              <ul>
+                <li>Microsoft PowerPoint (.ppt/.pptx)</li>
+              </ul>
+            </entry>
+          </row>
+          <row>
+            <entry>Images</entry>
+            <entry>
+              <ul>
+                <li>.png</li>
+                <li>.jpg/.jpeg</li>
+                <li>.gif - animation is not supported, however the first frame will be extracted</li>
+              </ul>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>
