@@ -2,7 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_linkedin_roles">
   <title>Types of LinkedIn Access Roles</title>
-  <shortdesc>There are several different levels of access a user can have on LinkedIn. Choose the correct role depending employee expectations.</shortdesc>
+  <shortdesc>LinkedIn offers different levels of account access based on user needs. The five possible roles are: super admin, content admin, curator, and analyst.</shortdesc>
   <refbody>
     <table>
       <title>LinkedIn Permission Roles</title>
