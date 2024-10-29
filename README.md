@@ -6,6 +6,7 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
 
 - Lauren Marlier
 - Eden Miller
+- Brayden Marsh
 
 ## Project Maps
 - in this section, create subsections for each map, where you will:
