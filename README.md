@@ -9,11 +9,19 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
 - Brayden Marsh
 
 ## Project Maps
-- in this section, create subsections for each map, where you will:
-  - write user scenario in your project's README
-  - create an outline for each map that goes along with the user scenario
+- In this section, create subsections for each map, where you will:
+  - Write user scenario in your project's README
+  - Create an outline for each map that goes along with the user scenario
 
 ### User Scenario 1 and outline
+- ***this user scenario and outline match Lauren's tasks, concept, and reference topics***
+- Jane is hired as the new communication specialist for English Inc. As part of her job responsibilites, she must manage all aspects of English Inc.'s company LinkedIn page. In order to do this, her personal LinkedIn account must be designated as a "super admin" in English Inc.'s company LinkedIn page settings but she will need the help a current employee to do this. 
+  - .ditamap outline
+    - concept: c_what_is_linkedin_admin
+    - tasks:
+      - t_linkedin_become_company_admin
+      - t_linkedin_current_company_admin
+    - reference: r_linkedin_roles
 
 ## Folders &amp; Files
 
