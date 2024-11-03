@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_is_linkedin">
+  <title>What Is LinkedIn</title>
+  <shortdesc>
+    LinkedIn is a professional networking platform that enables users to connect with colleagues, find job opportunities, share industry insights, and build their professional brand. It serves as a digital resume and offers tools for networking, job searching, and professional development.LinkedIn offers Page admin and paid media admin roles to allow for tiered levels of management for activites related to the page.
+  </shortdesc>
+  <conbody>
+    <section>
+      <title>LinkedIn</title>
+      <p>LinkedIn, founded in 2003, is a social network specifically designed for the professional community. It allows users to create profiles, showcase their skills and experience, and connect with other professionals.</p>
+    </section>
+  </conbody>
+</concept>
