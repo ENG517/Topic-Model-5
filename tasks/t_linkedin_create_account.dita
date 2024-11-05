@@ -17,19 +17,19 @@
         <cmd>Click on 'Join now'</cmd>
       </step>
       <step>
-        <cmd>Enter Your Personal Information</cmd>
+        <cmd>Enter Personal Information</cmd>
         <substeps>
           <substep>
-            <cmd>Enter your First Name.</cmd>
+            <cmd>Enter First Name.</cmd>
           </substep>
           <substep>
-            <cmd>Enter your Last Name.</cmd>
+            <cmd>Enter Last Name.</cmd>
           </substep>
           <substep>
-            <cmd>Enter your Email Address.</cmd>
+            <cmd>Enter Email Address.</cmd>
           </substep>
           <substep>
-            <cmd>Enter your Password.</cmd>
+            <cmd>Enter Password.</cmd>
           </substep>
          </substeps> 
       </step>
@@ -37,7 +37,7 @@
         <cmd>Click 'Agree and Join'</cmd>
         </step>
       <step>
-        <cmd>Confirm Your Email</cmd>
+        <cmd>Confirm Email Address</cmd>
         <substeps>
           <substep>
             <cmd>Check your email for a confirmation message from LinkedIn. Click the confirmation link provided in the email.</cmd>
@@ -45,16 +45,16 @@
         </substeps>
       </step>
       <step>
-        <cmd>Complete Your Profile by adding your information:</cmd>
+        <cmd>Complete Profile by adding information:</cmd>
         <substeps>
           <substep>
-            <cmd>Add your location.</cmd>
+            <cmd>Add location.</cmd>
           </substep>
           <substep>
-            <cmd>Select your most recent job title and company.</cmd>
+            <cmd>Add most recent job title and company.</cmd>
           </substep>
           <substep>
-            <cmd>Choose your industry.</cmd>
+            <cmd>Choose an industry.</cmd>
           </substep>
         </substeps>
       </step>
