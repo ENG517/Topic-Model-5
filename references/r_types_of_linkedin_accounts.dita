@@ -41,6 +41,8 @@
                 <li>Includes features like advanced search options, unlimited people browsing, and insights into company data.</li>
               </ul>
             </entry>
+          </row>
+          <row>
             <entry>Sales Navigator</entry>
             <entry>
               <ul>
@@ -48,6 +50,8 @@
                 <li>Offers advanced lead and company search capabilities, personalized algorithm-driven recommendations, and CRM integration.</li>
               </ul>
             </entry>
+          </row>
+          <row>
             <entry>Recruiter Lite</entry>
             <entry>
               <ul>
@@ -55,6 +59,8 @@
                 <li>Provides advanced search tools, InMail credits, and candidate tracking features.</li>
               </ul>
             </entry>
+            </row>
+            <row>
              <entry>LinkedIn Learning</entry>
             <entry>
               <ul>
@@ -62,8 +68,10 @@
                 <li>Users can gain skills and earn certificates that can be showcased on their profiles.</li>
               </ul>
             </entry>
+            </row>
+          <row>
              <entry>Company Page</entry>
-            <entry>
+             <entry>
               <ul>
                 <li>For businesses and organizations to establish a presence on LinkedIn.</li>
                 <li>Allows posting updates, job listings, and company news, as well as engaging with followers.</li>
