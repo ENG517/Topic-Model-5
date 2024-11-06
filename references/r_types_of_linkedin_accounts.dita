@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_types_of_linkedin_accounts">
+  <title>Types of LinkedIn Accounts</title>
+  <shortdesc>LinkedIn has a variety of accounts that users can use to connect with other professionals and manage the online presence of a company.</shortdesc>
+  <refbody>
+    <table>
+      <title>Types of LinkedIn Accounts</title>
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Account Type</entry>
+            <entry>Account Description</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Basic Account</entry>
+            <entry>
+              <ul>
+                <li>Ideal for individual users looking to connect with others, build a network, and search for jobs.</li>
+                <li>Allows users to create a profile, connect with others, join groups, and apply for jobs.</li>
+                <li>Limited access to certain features like InMail and advanced search filters.</li>
+              </ul>
+            </entry>
+          </row>
+          <row>
+            <entry>Premium Career</entry>
+            <entry>
+              <ul>
+                <li>Designed for job seekers who want to stand out in the job market.</li>
+                <li>Offers features like InMail (messaging users outside your network), access to job insights, and the ability to see who viewed your profile.</li>
+              </ul>
+            </entry>
+          </row>
+          <row>
+            <entry>Premium Business</entry>
+            <entry>
+              <ul>
+                <li>Targeted at professionals looking to expand their network and grow their business.</li>
+                <li>Includes features like advanced search options, unlimited people browsing, and insights into company data.</li>
+              </ul>
+            </entry>
+            <entry>Sales Navigator</entry>
+            <entry>
+              <ul>
+                <li>Aimed at sales professionals who want to find and connect with potential clients.</li>
+                <li>Offers advanced lead and company search capabilities, personalized algorithm-driven recommendations, and CRM integration.</li>
+              </ul>
+            </entry>
+            <entry>Recruiter Lite</entry>
+            <entry>
+              <ul>
+                <li>Designed for recruiters and hiring managers to streamline their recruiting process.</li>
+                <li>Provides advanced search tools, InMail credits, and candidate tracking features.</li>
+              </ul>
+            </entry>
+             <entry>LinkedIn Learning</entry>
+            <entry>
+              <ul>
+                <li>Offers access to a vast library of online courses for personal and professional development.</li>
+                <li>Users can gain skills and earn certificates that can be showcased on their profiles.</li>
+              </ul>
+            </entry>
+             <entry>Company Page</entry>
+            <entry>
+              <ul>
+                <li>For businesses and organizations to establish a presence on LinkedIn.</li>
+                <li>Allows posting updates, job listings, and company news, as well as engaging with followers.</li>
+              </ul>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>

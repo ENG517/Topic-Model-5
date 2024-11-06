@@ -23,6 +23,14 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
       - t_linkedin_current_company_admin
     - reference: r_linkedin_roles
 
+### User Scenario 2 and outline
+  *note: this user scenatio and outline match Brayden's task, concept, and reference topics.*
+  - John is new to LinkedIn and wants to know what the social media platform is and what types of accounts he can utilize. John wants to learn how to create a LinkedIn account so he can begin to build a network of professionals within his field. 
+  #### Ditamap Outline
+  - concept: c_what_is_linkedin.dita
+  - task: t_linkedin_create_account.dita
+  - reference: r_types_of_linkedin_accounts.dita
+
 ## Folders &amp; Files
 
 - `.github`: Contains configuration files for "Github Actions".
