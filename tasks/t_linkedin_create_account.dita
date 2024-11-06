@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_linkedin_create_account">
   <title>How to Create a LinkedIn Account</title>
-  <shortdesc>As a LinkedIn user, you can build connections with other professionals within and outside of your industry.</shortdesc>
+  <shortdesc>A LinkedIn user can build connections with other professionals within and outside of your industry.</shortdesc>
   <taskbody>
     <steps>
       <step>
@@ -40,7 +40,7 @@
         <cmd>Confirm Email Address</cmd>
         <substeps>
           <substep>
-            <cmd>Check your email for a confirmation message from LinkedIn. Click the confirmation link provided in the email.</cmd>
+            <cmd>Check email for a confirmation message from LinkedIn. Click the confirmation link provided in the email.</cmd>
           </substep>
         </substeps>
       </step>
