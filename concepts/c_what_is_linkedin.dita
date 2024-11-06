@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_is_linkedin">
+  <title>What Is LinkedIn</title>
+  <shortdesc>
+    Users can connect with other professionals by building a network and utilizing select features on LinkedIn. 
+    </shortdesc>
+  <conbody>
+    <section>
+        <title>What is LinkedIn</title>
+        <p>LinkedIn, founded in 2003, is a social network specifically designed for the professional community. It allows users to create profiles, showcase their skills and experience, and connect with other professionals.</p>
+      </section>
+      <section>
+        <title>Features of LinkedIn</title>
+        <p>LinkedIn offers a range of features designed to enhance professional networking:</p>
+        <dl>
+          <dlentry>
+            <dt>Profile Creation</dt>
+            <dd>Users can create a detailed profile, showcasing their resume, skills, achievements, and career history.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Networking</dt>
+            <dd>LinkedIn allows users to connect with others in their field, send messages, and grow their network.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Job Search</dt>
+            <dd>LinkedIn’s job portal provides a platform for users to search for jobs, apply directly, and receive job recommendations.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Endorsements and Recommendations</dt>
+            <dd>Connections can endorse each other's skills and provide written recommendations, adding credibility to profiles.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Content Sharing</dt>
+            <dd>Users can share articles, post updates, and engage with content shared by others to build their online presence.</dd>
+          </dlentry>
+          </dl>
+      </section>
+  </conbody>
+</concept>
