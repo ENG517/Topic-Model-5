@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="user-scenario-2.ditamap">
+  <title>How to Create a LinkedIn Account</title>
+  <topicref type="concept" href="concepts/c_what_is_linkedin.dita" />
+  <topicref type="task" href="tasks/t_linkedin_create_account.dita" />
+  <topicref type="reference" href="references/r_types_of_linkedin_accounts.dita" />
+</map>
