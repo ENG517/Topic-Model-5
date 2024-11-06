@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_linkedin_create_account">
+  <title>How to Create a LinkedIn Account</title>
+  <shortdesc>A LinkedIn user can build connections with other professionals within and outside of your industry.</shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Visit the LinkedIn Website</cmd>
+        <substeps>
+          <substep>
+            <cmd>Open a web browser and navigate to www.linkedin.com</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Click on 'Join now'</cmd>
+      </step>
+      <step>
+        <cmd>Enter Personal Information</cmd>
+        <substeps>
+          <substep>
+            <cmd>Enter First Name.</cmd>
+          </substep>
+          <substep>
+            <cmd>Enter Last Name.</cmd>
+          </substep>
+          <substep>
+            <cmd>Enter Email Address.</cmd>
+          </substep>
+          <substep>
+            <cmd>Enter Password.</cmd>
+          </substep>
+         </substeps> 
+      </step>
+      <step>
+        <cmd>Click 'Agree and Join'</cmd>
+        </step>
+      <step>
+        <cmd>Confirm Email Address</cmd>
+        <substeps>
+          <substep>
+            <cmd>Check email for a confirmation message from LinkedIn. Click the confirmation link provided in the email.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Complete Profile by adding information:</cmd>
+        <substeps>
+          <substep>
+            <cmd>Add location.</cmd>
+          </substep>
+          <substep>
+            <cmd>Add most recent job title and company.</cmd>
+          </substep>
+          <substep>
+            <cmd>Choose an industry.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Add a Profile Photo</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
