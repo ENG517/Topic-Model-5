@@ -10,7 +10,7 @@
         <title>What is LinkedIn</title>
         <p>LinkedIn, founded in 2003, is a social network specifically designed for the professional community. It allows users to create profiles, showcase their skills and experience, and connect with other professionals.</p>
       </section>
-      <section>
+      <section audience="novice">
         <title>Features of LinkedIn</title>
         <p>LinkedIn offers a range of features designed to enhance professional networking:</p>
         <dl>

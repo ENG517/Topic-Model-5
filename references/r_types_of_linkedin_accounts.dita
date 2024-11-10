@@ -24,7 +24,7 @@
               </ul>
             </entry>
           </row>
-          <row>
+          <row audience="expert">
             <entry>Premium Career</entry>
             <entry>
               <ul>
@@ -33,7 +33,7 @@
               </ul>
             </entry>
           </row>
-          <row>
+          <row audience="expert">
             <entry>Premium Business</entry>
             <entry>
               <ul>
@@ -42,7 +42,7 @@
               </ul>
             </entry>
           </row>
-          <row>
+          <row audience="expert"> 
             <entry>Sales Navigator</entry>
             <entry>
               <ul>
@@ -51,7 +51,7 @@
               </ul>
             </entry>
           </row>
-          <row>
+          <row audience="expert">
             <entry>Recruiter Lite</entry>
             <entry>
               <ul>
