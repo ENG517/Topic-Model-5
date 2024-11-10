@@ -10,11 +10,11 @@
         <title>What is LinkedIn</title>
         <p>LinkedIn, founded in 2003, is a social network specifically designed for the professional community. It allows users to create profiles, showcase their skills and experience, and connect with other professionals.</p>
       </section>
-      <section audience="novice">
+      <section>
         <title>Features of LinkedIn</title>
         <p>LinkedIn offers a range of features designed to enhance professional networking:</p>
         <dl>
-          <dlentry>
+          <dlentry audience="novice">
             <dt>Profile Creation</dt>
             <dd>Users can create a detailed profile, showcasing their resume, skills, achievements, and career history.</dd>
           </dlentry>
@@ -26,7 +26,7 @@
             <dt>Job Search</dt>
             <dd>LinkedIn’s job portal provides a platform for users to search for jobs, apply directly, and receive job recommendations.</dd>
           </dlentry>
-          <dlentry>
+          <dlentry audience="expert">
             <dt>Endorsements and Recommendations</dt>
             <dd>Connections can endorse each other's skills and provide written recommendations, adding credibility to profiles.</dd>
           </dlentry>

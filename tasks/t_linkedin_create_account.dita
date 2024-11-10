@@ -44,10 +44,10 @@
           </substep>
         </substeps>
       </step>
-      <step>
+      <step >
         <cmd>Complete Profile by adding information:</cmd>
         <substeps>
-          <substep>
+          <substep importance="optional">
             <cmd>Add location.</cmd>
           </substep>
           <substep>
