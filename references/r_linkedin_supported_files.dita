@@ -6,7 +6,7 @@
   <refbody>
     <table>
       <title>Supported Media Files</title>
-      <tgroup cols="3">
+      <tgroup cols="2">
         <thead>
           <row>
             <entry>Type of Media</entry>
