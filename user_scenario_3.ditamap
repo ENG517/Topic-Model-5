@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="user-scenario-3">
+  <title>Beginner's Guide to Becoming Club LinkedIn Admin</title>
+  <topicref type="concept" href="c_linkedin_join_request.dita"/>
+    <topicref type="task" href="t_managing_join_requests.dita"/>
+  <topicref type="task" href="t_writing_a_welcome_post.dita"/>
+    <topicref type="reference" href="r_linkedin_supported_files.dita"/>
+</map>
