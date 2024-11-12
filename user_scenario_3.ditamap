@@ -3,7 +3,7 @@
 <map id="user-scenario-3">
   <title>First Steps for Club LinkedIn Admin</title>
   <topicref type="concept" href="concepts/c_linkedin_join_request.dita"/>
-    <topicref type="task" href="tasks/t_managing_join_requests.dita"/>
+  <topicref type="task" href="tasks/t_managing_join_requests.dita"/>
   <topicref type="task" href="tasks/t_writing_a_welcome_post.dita"/>
-    <topicref type="reference" href="references/r_linkedin_supported_files.dita"/>
+  <topicref type="reference" href="references/r_linkedin_supported_files.dita"/>
 </map>
