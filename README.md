@@ -1,6 +1,6 @@
 # DITA Topic Model - LinkedIn Topic Model
 
-This repo contains a DITA topic model (TM) related to [enter main goal and topic of your model here].
+This repo contains a DITA topic model (TM) related to establishing admin role for a company LinkedIn page.
 
 ## Authors
 
@@ -13,7 +13,7 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
   - Write user scenario in your project's README
   - Create an outline for each map that goes along with the user scenario
 
-### User Scenario 1 and outline
+### User Scenario 1 and Outline
 - *note: this user scenario and outline match Lauren's tasks, concept, and reference topics*
 - Jane is hired as the new communication specialist for English Inc. As part of her job responsibilites, she must manage all aspects of English Inc.'s company LinkedIn page. In order to do this, her personal LinkedIn account must be designated as a "super admin" in English Inc.'s company LinkedIn page settings but she will need the help a current employee to do this. 
   - .ditamap outline
@@ -23,13 +23,17 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
       - t_linkedin_current_company_admin
     - reference: r_linkedin_roles
 
-### User Scenario 2 and outline
+### User Scenario 2 and Outline
   *note: this user scenatio and outline match Brayden's task, concept, and reference topics.*
   - John is new to LinkedIn and wants to know what the social media platform is and what types of accounts he can utilize. John wants to learn how to create a LinkedIn account so he can begin to build a network of professionals within his field. 
   #### Ditamap Outline
   - concept: c_what_is_linkedin.dita
   - task: t_linkedin_create_account.dita
   - reference: r_types_of_linkedin_accounts.dita
+
+### User Scenario 3 and Outline
+>*Note: This user scenario and outline match Eden's tasks, concept, and reference topics.*
+Louise just became social media manager to a student organization. Her club president completed the admin process with her during a club meeting, and now she's ready to start completing her club duties for the account. Since she doesn't have much experience with LinkedIn, she would love to learn more about some basic steps she can take to help monitor the club's account and establish herself as moderator.
 
 ## Folders &amp; Files
 
