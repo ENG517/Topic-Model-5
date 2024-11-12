@@ -37,9 +37,9 @@ This repo contains a DITA topic model (TM) related to establishing admin role fo
 
 #### Ditamap Outline
 - concept: c_linkedin_join_requests.dita
-  - task: t_managing_join_requests.dita
+- task: t_managing_join_requests.dita
 - task: t_writing_a_welcome_post.dita
-  - reference: r_linkedin_supported_files.dita
+- reference: r_linkedin_supported_files.dita
 
 ### User Scenario 4 and Outline
 *Note: This user scenario outline is a mix of tasks, concepts, and topics created by group members to fulfill a specific scenario to show how re-use each topic was designed with reuse in mind.*
@@ -47,10 +47,10 @@ This repo contains a DITA topic model (TM) related to establishing admin role fo
 
 #### Ditamap Outline
 - concept: c_what_is_linkedin.dita
-  - reference: r_types_of_linkedin_accounts.dita
-  - task: t_linkedin_create_account.dita
+- reference: r_types_of_linkedin_accounts.dita
+- task: t_linkedin_create_account.dita
 - task: t_writing_a_welcome_post.dita
-  - reference: r_linkedin_supported_files.dita
+- reference: r_linkedin_supported_files.dita
 
 ## Folders &amp; Files
 
