@@ -32,8 +32,8 @@ This repo contains a DITA topic model (TM) related to establishing admin role fo
   - reference: r_types_of_linkedin_accounts.dita
 
 ### User Scenario 3 and Outline
->*Note: This user scenario and outline match Eden's tasks, concept, and reference topics.*
-Louise just became social media manager to a student organization. Her club president completed the admin process with her during a club meeting, and now she's ready to start completing her club duties for the account. Since she doesn't have much experience with LinkedIn, she would love to learn more about some basic steps she can take to help monitor the club's account and establish herself as moderator.
+*Note: This user scenario and outline match Eden's tasks, concept, and reference topics.*
+- Louise just became social media manager to a student organization. Her club president completed the admin process with her during a club meeting, and now she's ready to start completing her club duties for the account. Since she doesn't have much experience with LinkedIn, she would love to learn more about some basic steps she can take to help monitor the club's account and establish herself as moderator.
 
 #### Ditamap Outline
 - concept: c_linkedin_join_request
