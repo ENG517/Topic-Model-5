@@ -47,7 +47,7 @@
       <step >
         <cmd>Complete Profile by adding information:</cmd>
         <substeps>
-          <substep importance="optional">
+          <substep>
             <cmd>Add location.</cmd>
           </substep>
           <substep>

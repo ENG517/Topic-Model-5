@@ -14,7 +14,7 @@
           </row>
         </thead>
         <tbody>
-          <row audience="novice">
+          <row>
             <entry>Basic Account</entry>
             <entry>
               <ul>
@@ -60,7 +60,7 @@
               </ul>
             </entry>
             </row>
-            <row audience="novice">
+            <row>
              <entry>LinkedIn Learning</entry>
             <entry>
               <ul>
