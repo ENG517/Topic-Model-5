@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="user_scenario_4">
+  <title>LinkedIn Account Basics - Getting Started</title>
+  <topicref type="concept" href="concepts/c_what_is_linkedin.dita"/>
+    <topicref type="reference" href="references/r_types_of_linkedin_accounts.dita"/>
+    <topicref type="task" href="tasks/t_linkedin_create_account.dita"/>
+  <topicref type="task" href="tasks/t_writing_a_welcome_post.dita"/>
+    <topicref type="reference" href="references/r_linkedin_supported_files.dita"/>
+</map>
