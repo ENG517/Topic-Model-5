@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_linkedin_join_requests">
+  <title>LinkedIn Join Request</title>
+  <shortdesc>LinkedIn users and LinkedIn company admins are responsible for managing join, or connection, requests.</shortdesc>
+  <conbody>
+    <section>
+      <title>What are LinkedIn Join Requests?</title>
+        <p>To connect with a LinkedIn page, the user sends a join request to the page administator as a prerequisite for joining a company page or connecting with a personal account. Compamy admin and page owners choose who can and cannot connect with their account.</p>
+        <p>Number of connections are often viewed as a sign of page success, for both personal and professonal capacities. While outreach and making connections is important, remember to be cautious of those you make connections with and do your research.</p>
+    </section>
+  </conbody>
+</concept>
