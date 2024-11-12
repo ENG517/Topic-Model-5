@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="How to Become a Super Admin on LinkedIn">
+  <topicref type="concept" href="concepts/c_what_is_linkedin_admin.dita"/>
+  <topicref type="task" href="tasks/t_linkedin_become_company_admin.dita"/>
+  <topicref type="task" href="tasks/t_linkedin_current_company_admin.dita"/>
+  <topicref type="reference" href="references/r_linkedin_roles.dita"/>
+</map>
