@@ -41,6 +41,13 @@ This repo contains a DITA topic model (TM) related to establishing admin role fo
 - task: t_writing_a_welcome_post.dita
   - reference: r_linkedin_supported_files.dita
 
+### User Scenario 4 and Outline
+*Note: This user scenario outline is a mix of tasks, concepts, and topics created by group members to fulfill a specific scenario to show how re-use each topic was designed with reuse in mind.*
+- Sarah is the owner of a new start up and needs to provide LinkedIn documentation to her new social media manager - her spouse who has sworn off social media. Since they don't have much experience, her spouse wants to figure out the first steps of how to set up the business' online presence.
+
+#### Ditamap Outline
+- 
+
 ## Folders &amp; Files
 
 - `.github`: Contains configuration files for "Github Actions".
