@@ -14,7 +14,7 @@
           </row>
         </thead>
         <tbody>
-          <row>
+          <row audience="expert">
             <entry>Documents</entry>
             <entry>
               <ul>
@@ -23,7 +23,7 @@
               </ul>
             </entry>
           </row>
-          <row>
+          <row audience="expert">
             <entry>Powerpoints</entry>
             <entry>
               <ul>
@@ -37,7 +37,7 @@
               <ul>
                 <li>.png</li>
                 <li>.jpg/.jpeg</li>
-                <li>.gif - animation is not supported, however the first frame will be extracted</li>
+                <li>.gif - animation is not supported, however the first frame will be extracted.</li>
               </ul>
             </entry>
           </row>
