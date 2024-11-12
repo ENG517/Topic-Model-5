@@ -49,7 +49,7 @@ This repo contains a DITA topic model (TM) related to establishing admin role fo
 - concept: c_what_is_linkedin.dita
   - reference: r_types_of_linkedin_accounts.dita
   - task: t_linkedin_create_account.dita
-- - task: t_writing_a_welcome_post.dita
+- task: t_writing_a_welcome_post.dita
   - reference: r_linkedin_supported_files.dita
 
 ## Folders &amp; Files
