@@ -36,7 +36,7 @@ This repo contains a DITA topic model (TM) related to establishing admin role fo
 - Louise just became social media manager to a student organization. Her club president completed the admin process with her during a club meeting, and now she's ready to start completing her club duties for the account. Since she doesn't have much experience with LinkedIn, she would love to learn more about some basic steps she can take to help monitor the club's account and establish herself as moderator.
 
 #### Ditamap Outline
-- concept: c_linkedin_join_request
+- concept: c_linkedin_join_requests.dita
   - task: t_managing_join_requests.dita
 - task: t_writing_a_welcome_post.dita
   - reference: r_linkedin_supported_files.dita
