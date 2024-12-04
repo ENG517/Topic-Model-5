@@ -17,26 +17,26 @@
 #########
 colors:
   primary: 
-    main: '#005687' #Dark Blue
-    s1: '#e1f5fe'
-    s2: '#b3e5fc'
-    s3: '#4fc3f7'
-    s4: '#0288d1'
-    s5: '#186cb8'
+    main: '#0072b1' #Dark Blue
+    s1: '#e5f0f7'
+    s2: '#b2d4e7'
+    s3: '#7fb8d8'
+    s4: '#4c9cc8'
+    s5: '#1980b8'
   secondary: 
-    main: '#f44336' #Dark Red
-    s1: '#ffdde0'
-    s2: '#ffcdd2'
-    s3: '#ef9a9a'
-    s4: '#d32f2f'
-    s5: '#b71c1c'
+    main: '#b10072' #Magenta
+    s1: '#f7e5f0'
+    s2: '#e7b2d4'
+    s3: '#d87fb8'
+    s4: '#c84c9c'
+    s5: '#b81980'
   accent1:
-    main: '#f1b211' #Golden rod yellow
-    s1: '#f9f1dc'
-    s2: '#f4dea7'
-    s3: '#f2cb69'
-    s4: '#f0bb34'
-    s5: '#e4a80b'
+    main: '#72b100' #Green
+    s1: '#f0f7e5'
+    s2: '#d4e7b2'
+    s3: '#b8d87f'
+    s4: '#9cc84c'
+    s5: '#80b819'
   neutrals: # No need to change neutrals
     s1: '#f2f2f2'
     s2: '#e8e9e9'
@@ -52,8 +52,8 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Public Sans, Arial Unicode MS'
-    headings: 'Bebas Neue, Times New Roman'
+    copy: 'Geist, Arial Unicode MS'
+    headings: 'Libre Caslon, Times New Roman'
   sizing:
     title: 36pt
     h1: 29pt
