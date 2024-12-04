@@ -54,8 +54,6 @@ fonts:
   families:
     copy: 'Public Sans, Arial Unicode MS'
     headings: 'Bebas Neue, Times New Roman'
-    display: 'Monoton'
-    monospaced: 'Fantasque Sans Mono, Courier New, Courier'
   sizing:
     title: 36pt
     h1: 29pt
