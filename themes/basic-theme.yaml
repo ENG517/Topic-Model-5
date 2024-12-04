@@ -52,8 +52,8 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Public Sans, Arial Unicode MS'
-    headings: 'Bebas Neue, Times New Roman'
+    copy: 'Geist, Arial Unicode MS'
+    headings: 'Libre Caslon, Times New Roman'
   sizing:
     title: 36pt
     h1: 29pt
