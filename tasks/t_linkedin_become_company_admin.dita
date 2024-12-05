@@ -7,7 +7,7 @@
     <prereq>A current page Admin will also have instructions to complete in order for you to be added as an admin.</prereq>
     <steps>
       <step>
-        <cmd>Log into your personal LinkedIn account on a laptop or desktop.</cmd>
+        <cmd>Log into your personal LinkedIn account.</cmd>
       </step>
       <step>
         <cmd>Search for and connect with the individual that is already a "administrator" for the company page.</cmd>
@@ -16,7 +16,7 @@
         <cmd>Consult the instructions for the current page administrator and then return once completed.</cmd>
       </step>
       <step>
-        <cmd>Navigate to the LinkedIn homepage. It should now include access to the company page on the left hand side underneath your profile block.</cmd>
+        <cmd>Navigate to the LinkedIn homepage. Access to the company LinkedIn page should now be visible on the homepage.</cmd>
       </step>
       <step>
         <cmd>Finally, consult with an employee that is a current Super Admin in order to successfully update the permissions.</cmd>
