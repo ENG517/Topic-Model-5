@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_managing_join_requests" audience="novice">
+  <!-- Note that you use the "How to ..." approach for other tasks in the model. Be consistent with that convention. -->
   <title>Managing LinkedIn Join Requests</title>
   <shortdesc>
-LinkedIn page administrators control the LinkedIn members that can and cannot join the company’s page. It’s essential to monitor community access so posts and information reach the targeted audience and proper networking can occur. 
+    LinkedIn page administrators control the LinkedIn members that can and cannot join the company’s page. It’s essential to monitor community access so posts and information reach the targeted audience and proper networking can occur. 
   </shortdesc>
   <taskbody>
-    <prereq>Ensure you have “Super Admin” access to your company’s LinkedIn page. If not, contact your LinkedIn Administrator. </prereq>
+    <prereq>Ensure you have “Super Admin” access to your company’s LinkedIn page. If not, contact your LinkedIn Administrator.</prereq>
     <steps>
       <step>
         <cmd>Log into your personal LinkedIn account.</cmd>
@@ -18,6 +19,7 @@ LinkedIn page administrators control the LinkedIn members that can and cannot jo
         <cmd>Click on your group page.</cmd>
       </step>
       <step>
+        <!-- Any UI controls should be contained by the inline element of <uicontrol>. Please check and correct for this throughout your model. -->
         <cmd>Select "Manage Groups, then "Requests."</cmd>
       </step>
       <step>
@@ -34,11 +36,12 @@ LinkedIn page administrators control the LinkedIn members that can and cannot jo
           </substep>
           <substep>
             <cmd>Accept the user if they do have an affiliation with the company.</cmd>
+            <!-- Often it is best practices to provide some notice about a result, example of some sort to help users verify if they have completed the procedure or step. Use DITA's elements to offer such guidance, when appropriate and most helpful. You can either use text only or media like images. Incorporate these moves throughout your model. -->
           </substep>
         </substeps>
       </step>
       <step>
-        <cmd>If there are no pending requests: No further action is needed.</cmd>
+        <cmd>If there are no pending requests, no further action is needed.</cmd>
       </step>
     </steps>
     <postreq>
