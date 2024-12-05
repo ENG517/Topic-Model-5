@@ -7,19 +7,19 @@
     <prereq>You need to be connected with the person you would like to add as an adminstrator in order to be successful.</prereq>
       <steps>
         <step>
-          <cmd>Open the LinkedIn homepage on a web browser, navigate to the company page and click "Settings".</cmd>
+          <cmd>Open the LinkedIn homepage on a web browser, navigate to the company page and click <uicontrol>"Settings"</uicontrol> button.</cmd>
         </step>
         <step>
-          <cmd>Click on "Manage Admins".</cmd>
+          <cmd>Click on the <uicontrol>"Manage Admins"</uicontrol> button.</cmd>
         </step>
         <step>
-          <cmd>Select the blue "Add Admin" button.</cmd>
+          <cmd>Select the blue <uicontrol>"Add Admin"</uicontrol> button.</cmd>
         </step>
         <step>
           <cmd>Type in the name of the LinkedIn user (name of the new hire) that you are adding as an administrator.</cmd>
         </step>
         <step>
-          <cmd>Assign their role as "Super Admin" and then press save.</cmd>
+          <cmd>Assign their role as "Super Admin" and then press <uicontrol>save</uicontrol>.</cmd>
         </step>
         <step>
           <cmd>Alert the new hire that they have been added as an administrator and they may complete the rest of the required instructions.</cmd>
