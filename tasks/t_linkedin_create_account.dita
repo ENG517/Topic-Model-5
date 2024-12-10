@@ -6,15 +6,15 @@
   <taskbody>
     <steps>
       <step>
-        <cmd>Visit the LinkedIn Website</cmd>
+        <cmd>Visit LinkedIn</cmd>
         <substeps>
           <substep>
-            <cmd>Open a web browser and navigate to www.linkedin.com</cmd>
+            <cmd>Navigate to www.linkedin.com</cmd>
           </substep>
         </substeps>
       </step>
       <step>
-        <cmd>Click on 'Join now'</cmd>
+        <cmd>Click on <uicontrol>Join Now</uicontrol></cmd>
       </step>
       <step>
         <cmd>Enter Personal Information</cmd>
@@ -34,7 +34,7 @@
          </substeps> 
       </step>
       <step>
-        <cmd>Click 'Agree and Join'</cmd>
+        <cmd>Click <uicontrol>Agree and Join</uicontrol></cmd>
         </step>
       <step>
         <cmd>Confirm Email Address</cmd>
