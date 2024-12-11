@@ -131,7 +131,7 @@ style:
   h6:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h6
-    color: $conlors-primary-main
+    color: $colors-primary-main
   li:
     margin-bottom: $spacing-lines-medium
     font-family: $fonts-families-copy
@@ -170,7 +170,6 @@ style:
     keep-together.within-page: always
   option:
     color: $colors-secondary-main
-    font-family: $fonts-families-monospaced
   table:
     caption:
       color: $colors-secondary-main
