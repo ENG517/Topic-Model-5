@@ -62,5 +62,6 @@
         <cmd>Add a Profile Photo</cmd>
       </step>
     </steps>
+    <result>Once all information has been inputed, you have successfully created a LinkedIn account.</result>
   </taskbody>
 </task>
