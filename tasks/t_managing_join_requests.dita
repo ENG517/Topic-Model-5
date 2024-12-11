@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_managing_join_requests" audience="novice">
-  <title>Managing LinkedIn Join Requests</title>
-  <shortdesc>
-LinkedIn page administrators control the LinkedIn members that can and cannot join the company’s page. It’s essential to monitor community access so posts and information reach the targeted audience and proper networking can occur. 
-  </shortdesc>
+  <title>How to Manage LinkedIn Join Requests</title>
+  <shortdesc>LinkedIn page administrators control the LinkedIn members that can and cannot join the company’s page. It’s essential to monitor community access so posts and information reach the targeted audience and proper networking can occur.</shortdesc>
   <taskbody>
-    <prereq>Ensure you have “Super Admin” access to your company’s LinkedIn page. If not, contact your LinkedIn Administrator. </prereq>
+    <prereq>Ensure you have “Super Admin” access to your company’s LinkedIn page. If not, contact your LinkedIn Administrator.</prereq>
     <steps>
       <step>
         <cmd>Log into your personal LinkedIn account.</cmd>
@@ -18,7 +16,7 @@ LinkedIn page administrators control the LinkedIn members that can and cannot jo
         <cmd>Click on your group page.</cmd>
       </step>
       <step>
-        <cmd>Select "Manage Groups, then "Requests."</cmd>
+        <cmd>Select <uicontrol>Manage Groups</uicontrol>, then <uicontrol>Requests</uicontrol>.</cmd>
       </step>
       <step>
         <cmd>If there are pending requests:</cmd>
@@ -36,9 +34,10 @@ LinkedIn page administrators control the LinkedIn members that can and cannot jo
             <cmd>Accept the user if they do have an affiliation with the company.</cmd>
           </substep>
         </substeps>
+        <stepresult>User acceptance or rejection can be confirmed by viewing the number of follows on your LinkedIn company page. If the number increases, a user has been accepted. If not, the user was denied.</stepresult>
       </step>
       <step>
-        <cmd>If there are no pending requests: No further action is needed.</cmd>
+        <cmd>If there are no pending requests, no further action is needed.</cmd>
       </step>
     </steps>
     <postreq>
