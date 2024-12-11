@@ -16,7 +16,7 @@
         <cmd>Click on your group page.</cmd>
       </step>
       <step>
-        <cmd>Select "Manage Groups, then "Requests."</cmd>
+        <cmd>Select <uicontrol>Manage Groups</uicontrol>, then <uicontrol>Requests</uicontrol>.</cmd>
       </step>
       <step>
         <cmd>If there are pending requests:</cmd>
