@@ -54,7 +54,6 @@ fonts:
   families:
     copy: 'Geist, Arial Unicode MS'
     headings: 'Libre Caslon, Times New Roman'
-    display: 'Monoton'
     monospaced: 'Fantasque Sans Mono, Courier New, Courier'
   sizing:
     title: 36pt
@@ -99,12 +98,12 @@ style:
   # Cover Page Title
   cover-title:
     color: $colors-primary-main
-    font-family: $fonts-families-display
+    font-family: $fonts-families-headings
     font-size: $fonts-sizing-title
     text-transform: uppercase
   # Heading Styles
   h1:
-    font-family: $fonts-families-display
+    font-family: $fonts-families-headings
     font-size: $fonts-sizing-h1
     letter-spacing: 0.5pt
     color: $colors-primary-main
@@ -121,16 +120,19 @@ style:
   h3:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h3
-    color: $colors-primary-main
+    color: $colors-accent1-main
   h4:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h4
+    color: $colors-secondary-main
   h5:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h5
+    color: $colors-accent1-main
   h6:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h6
+    color: $conlors-primary-main
   li:
     margin-bottom: $spacing-lines-medium
     font-family: $fonts-families-copy
