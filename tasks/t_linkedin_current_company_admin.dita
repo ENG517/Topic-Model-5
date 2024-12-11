@@ -7,7 +7,7 @@
     <prereq>You need to be connected with the person you would like to add as an adminstrator in order to be successful.</prereq>
       <steps>
         <step>
-          <cmd>Open the LinkedIn homepage, navigate to the company page and click <uicontrol>"Settings"</uicontrol> .</cmd>
+          <cmd>Open the LinkedIn homepage, navigate to the company page and click <uicontrol>Settings</uicontrol> .</cmd>
         </step>
         <step>
           <cmd>Click on the <uicontrol>Manage Admins</uicontrol> button.</cmd>
