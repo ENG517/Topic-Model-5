@@ -34,6 +34,7 @@
             <cmd>Accept the user if they do have an affiliation with the company.</cmd>
           </substep>
         </substeps>
+        <stepresult>User acceptance or rejection can be confirmed by viewing the number of follows on your LinkedIn company page. If the number increases, a user has been accepted. If not, the user was denied.</stepresult>
       </step>
       <step>
         <cmd>If there are no pending requests, no further action is needed.</cmd>
