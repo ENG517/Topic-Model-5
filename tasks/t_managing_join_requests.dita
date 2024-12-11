@@ -2,11 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_managing_join_requests" audience="novice">
   <title>Managing LinkedIn Join Requests</title>
-  <shortdesc>
-LinkedIn page administrators control the LinkedIn members that can and cannot join the company’s page. It’s essential to monitor community access so posts and information reach the targeted audience and proper networking can occur. 
-  </shortdesc>
+  <shortdesc>LinkedIn page administrators control the LinkedIn members that can and cannot join the company’s page. It’s essential to monitor community access so posts and information reach the targeted audience and proper networking can occur.</shortdesc>
   <taskbody>
-    <prereq>Ensure you have “Super Admin” access to your company’s LinkedIn page. If not, contact your LinkedIn Administrator. </prereq>
+    <prereq>Ensure you have “Super Admin” access to your company’s LinkedIn page. If not, contact your LinkedIn Administrator.</prereq>
     <steps>
       <step>
         <cmd>Log into your personal LinkedIn account.</cmd>
@@ -38,7 +36,7 @@ LinkedIn page administrators control the LinkedIn members that can and cannot jo
         </substeps>
       </step>
       <step>
-        <cmd>If there are no pending requests: No further action is needed.</cmd>
+        <cmd>If there are no pending requests, no further action is needed.</cmd>
       </step>
     </steps>
     <postreq>
