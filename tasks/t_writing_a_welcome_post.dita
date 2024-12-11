@@ -23,7 +23,7 @@
         <cmd>Click on the name of the company page.</cmd>
       </step>
       <step>
-        <cmd>Click the blue "+ Create" button and then select "Start a Post.”</cmd>
+        <cmd>Click the blue <uicontrol>+ Create</uicontrol> button and then select <uicontrol>Start a Post</uicontrol>.</cmd>
       </step>
       <step>
         <cmd>Add text written in third-person containing the following information:</cmd>
@@ -49,7 +49,7 @@
         </substeps>
       </step>
       <step>
-        <cmd>Click post.</cmd>
+        <cmd>Click <uicontrol>post</uicontrol>.</cmd>
       </step>
     </steps>
   </taskbody>
